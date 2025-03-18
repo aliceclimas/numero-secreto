@@ -5,24 +5,22 @@
 
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
-* [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
 * [Conclusão](#conclusão)
 * 
-![ia](https://github.com/user-attachments/assets/930ef1ea-f6fc-477c-97e8-f94dd78b0594)
+
+<p align="right"><img src="https://github.com/user-attachments/assets/ce5190b3-8bb8-479f-9765-6f4f4f4c936d"></p>
 
 <h2 align="center"> Descrição do projeto </h2>
 
 <p> Qual o número secreto é um jogo em JavaScript desenvolvido em cursos de Lógica e Programação da Alura, porém, o README criado foi desenvolvido para aplicar os conceitos aprendidos no curso de Git e GitHub: compartilhando e colaborando em projetos </p>
+
+<h2 align="center">Status do projeto </h2>
+
 <p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUÍDO&color=GREEN&style=for-the-badge"/>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
 # :hammer: Funcionalidades do projeto
@@ -32,5 +30,8 @@
 
 # 🛠️ Abrir e rodar o projeto
 
-** Para acessar o projeto, acesse esse [repositório](https://exemplo.com/) e baixe os arquivos em seu diretório local.**
+** Para acessar o projeto, acesse esse [repositório](https://github.com/aliceclimas/numero-secreto) e baixe os arquivos em seu diretório local.**
 
+<h2 align="center"> Conclusão </h2>
+
+** O curso [Git e GitHub: compartilhando e colaborando em projetos](https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos/task/139787o) é um curso bem interessante para quem deseja aprender conceito básicos sobre hospedagem e versionamento de código. Um agradecimento especial, aos instrutores do curso, Gabrielle e Rodrigo..**
